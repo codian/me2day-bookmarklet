@@ -1,0 +1,1 @@
+<a href="javascript:alert('hello')">북마클릿</a>
